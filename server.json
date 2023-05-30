@@ -1,28 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-05-24T15:47:29.787Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-05-24T12:25:29.787Z"
-        },
-        {
-            "id": 3,
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2023-05-21T16:37:29.787Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-24T15:47:29.787Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-05-24T12:25:29.787Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-05-21T16:37:29.787Z"
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-05-30T20:48:09.196Z",
+      "id": 4
+    },
+    {
+      "description": "pastel",
+      "category": "alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-05-30T21:46:14.692Z",
+      "id": 5
+    },
+    {
+      "description": "iogurte",
+      "category": "alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-05-30T21:46:38.490Z",
+      "id": 6
+    }
+  ]
 }
